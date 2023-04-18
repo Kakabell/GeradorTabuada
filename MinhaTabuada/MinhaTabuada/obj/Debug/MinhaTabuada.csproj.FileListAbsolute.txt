@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\MinhaTabuada\MinhaTabuada\bin\Debug\MinhaTabuada.exe.config
+C:\Users\Usuario\source\repos\MinhaTabuada\MinhaTabuada\bin\Debug\MinhaTabuada.exe
+C:\Users\Usuario\source\repos\MinhaTabuada\MinhaTabuada\bin\Debug\MinhaTabuada.pdb
+C:\Users\Usuario\source\repos\MinhaTabuada\MinhaTabuada\obj\Debug\MinhaTabuada.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\MinhaTabuada\MinhaTabuada\obj\Debug\MinhaTabuada.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\MinhaTabuada\MinhaTabuada\obj\Debug\MinhaTabuada.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\MinhaTabuada\MinhaTabuada\obj\Debug\MinhaTabuada.exe
+C:\Users\Usuario\source\repos\MinhaTabuada\MinhaTabuada\obj\Debug\MinhaTabuada.pdb
